@@ -1,1 +1,2 @@
 # Ejercicio2
+    Se adjunta el archivo en formato zip y para consumirlo desde la url una vez ejecutando la aplicación se agrega la siguiente sintaxis /api/Palindromo/Get?word=Luis cambiando el parametro word para que identifique si es palíndromo o no, se adjunta todo el código que se llevo a cabo pero por cuestiones de tiempo no pude realizar el agregado, elimiando y consulta a el diccionario, pero adjunto el código para su muestra.
